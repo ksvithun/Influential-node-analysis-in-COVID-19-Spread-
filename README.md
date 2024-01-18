@@ -1,3 +1,4 @@
-                                                                                                Influential-node-analysis-in-COVID-19-Spread
+
+                                                                              Influential node analysis inCOVID-19 Spread
 
 Social Network Analysis, also known as structural analysis, is a method employed to examine interconnected social systems. In the context of the influential node analysis of the COVID-19 network, this technique visualizes the virus's spread in India by observing the movement of individuals between states, each represented as a node. Unlike the existing systems, this project introduces a novel approach by showcasing the trend of COVID-19 spread throughout the year, providing insights into different time periods. Utilizing two datasets, the analysis portrays the virus's movement, utilizing a travel dataset to represent infected cases moving from one state to another, with edges symbolizing these transmissions. The project addresses the absence of a method to visualize the spread of the coronavirus and aims to understand its origin and progression from Kerala across India during distinct time intervals.
